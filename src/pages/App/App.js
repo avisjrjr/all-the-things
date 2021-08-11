@@ -72,6 +72,7 @@ class App extends Component {
         <Route exact path='/the-bird-things'>
           <StyledThings things={this.state.davidsThings} />
         </Route>
+        <h1> Does this work? chitra</h1>
       </>
       
     );
